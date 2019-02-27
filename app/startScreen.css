@@ -1,0 +1,99 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.startScreen_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilelabel_2 */
+.startScreen_mobilelabel_2 {
+	text-decoration: none; font-weight: normal; text-align: center; font-family: Georgia; font-size: 22px;
+	margin: 120px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegrid_3 */
+.startScreen_mobilegrid_3 {
+	height: auto;
+	width:100%;
+	margin: 30px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.startScreen_mobilegrid_3_wrapper {
+
+}
+.startScreen_mobilegrid_3 > tr > td {
+	vertical-align: top;
+}
+.startScreen_mobilegrid_3_row_0, .startScreen_mobilegrid_3_row_0 > td {
+	height: 30px
+}
+/* mobilegridcell_4 */
+.startScreen_mobilegridcell_4 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startScreen_mobilegridcell_4 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobileselectmenu_9 */
+.startScreen_mobileselectmenu_9 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilegridcell_8 */
+.startScreen_mobilegridcell_8 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startScreen_mobilegridcell_8 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobiletextinput_11 */
+.startScreen_mobiletextinput_11 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilegrid_12 */
+.startScreen_mobilegrid_12 {
+	height: auto;
+	width:100%;
+	margin: 60px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.startScreen_mobilegrid_12_wrapper {
+
+}
+.startScreen_mobilegrid_12 > tr > td {
+	vertical-align: top;
+}
+.startScreen_mobilegrid_12_row_0, .startScreen_mobilegrid_12_row_0 > td {
+	height: 30px
+}
+/* mobilegridcell_13 */
+.startScreen_mobilegridcell_13 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 0px 2px 0px;
+}
+.startScreen_mobilegridcell_13 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilebutton_17 */
+#startScreen_mobilebutton_17 {
+
+}
+.ui-btn.startScreen_mobilebutton_17 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilefooter */
+.startScreen_mobilefooter {
+	min-height:38px;
+}
